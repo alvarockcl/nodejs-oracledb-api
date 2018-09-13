@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-oracledb-ejemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarockcl/nodejs-oracledb-ejemplo.git"
+  },
+  "author": "Alvaro Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvarockcl/nodejs-oracledb-ejemplo/issues"
+  },
+  "homepage": "https://github.com/alvarockcl/nodejs-oracledb-ejemplo#readme",
+  "dependencies": {
+    "oracledb": "^2.3.0"
+  }
+}
