@@ -21,7 +21,10 @@ exports.todos = function(req, res) {
         },
         function(err, connection) {
           if (err) {
-            console.error(err.message);
+            res.status(200).send({
+              "codigo": 200,
+              "mensaje": err.message
+            });
             return;
           }
           connection.execute(
