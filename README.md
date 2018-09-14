@@ -10,5 +10,7 @@ npm install
 
 node index.js
 
+http://localhost:4000/api/query/todos
+
 
 
