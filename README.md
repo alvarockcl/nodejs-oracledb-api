@@ -1,4 +1,4 @@
-# Ejemplo NodeJS - Oracle DB
+# Ejemplo NodeJS - Oracle DB - API
 
 Requiere configurar TNSNAME
 
